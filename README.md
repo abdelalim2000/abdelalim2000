@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm Mohamed A. Abdelalim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  <h3>Full Stack Developer | System Architect | Tech Enthusiast</h3>
+  <h3>Master Backend Developer | System Architect | Tech Enthusiast</h3>
   
   <br/>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px; max-height: 200px; object-fit: cover;" alt="Coding Banner">
+  <img src="https://media.giphy.com/media/26tn33ai01UfQN36K/giphy.gif" width="100%" style="border-radius: 10px; max-height: 250px; object-fit: cover;" alt="Backend Matrix Code">
   
   <br/>
 </div>
@@ -29,8 +29,6 @@ I’m a passionate **Full-Stack Developer** who transformed years of freelancing
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" style="margin: 0 10px"/>
-<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" style="margin: 0 10px"/>
-<img src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" style="margin: 0 10px"/>
@@ -47,8 +45,6 @@ I’m a passionate **Full-Stack Developer** who transformed years of freelancing
 <img src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" style="margin: 0 10px"/>
-<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" style="margin: 0 10px"/>
-<img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" style="margin: 0 10px"/>
 </div>
 
@@ -56,6 +52,7 @@ I’m a passionate **Full-Stack Developer** who transformed years of freelancing
 <div>
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin: 0 10px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" style="margin: 0 10px"/>
 <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" style="margin: 0 10px"/>
@@ -74,18 +71,17 @@ I’m a passionate **Full-Stack Developer** who transformed years of freelancing
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelalim2000&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" height="150" alt="Mohamed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelalim2000&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="150" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelalim2000&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=E25822&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎧 Vibe Check
-
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=21e5at4hei64iumohsvvadtha&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21e5at4hei64iumohsvvadtha&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D1117&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Playing" />
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelalim2000&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Mohamed's Stats" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelalim2000&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Top Languages" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelalim2000&theme=dark&background=151515&ring=79ff97&fire=E25822&currStreakLabel=79ff97&hide_border=true" alt="Streak" />
+</a>
 </div>
