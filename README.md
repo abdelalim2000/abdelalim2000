@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-size: 3em;">Hi, I'm Mohamed A. Abdelalim</h1>
   <h3>Senior Software Architect & Backend Expert</h3>
-  <p><b>14+ Years of Engineering Excellence</b> | Scalable Systems | Distributed Architectures</p>
+  <p><b>7+ Years of Engineering Excellence</b> | Scalable Systems | Distributed Architectures</p>
   
   <br/>
 
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 Professional Summary
 
-With over **14 years** of hands-on experience in the software industry, I specialize in designing and implementing high-performance backend systems. My journey has evolved from writing code to **architecting distributed solutions** that power business-critical applications.
+With over **7 years** of hands-on experience in the software industry, I specialize in designing and implementing high-performance backend systems. My journey has evolved from writing code to **architecting distributed solutions** that power business-critical applications.
 
 I focus on **performance optimization**, **database scalability**, and **security compliance**. I thrive in complex environments where architectural decisions have a direct impact on system reliability and user experience.
 
