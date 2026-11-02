@@ -1,106 +1,106 @@
 <div align="center">
-  <h1 style="font-size: 3em;">Hi, I'm Mohamed A. Abdelalim</h1>
-  <h3>Senior Software Architect & Backend Expert</h3>
-  <p><b>7+ Years of Engineering Excellence</b> | Scalable Systems | Distributed Architectures</p>
-  
-  <br/>
 
-  <!-- Dynamic Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Optimizing+High-Load+Architectures;Designing+Resilient+Microservices;Expert+in+System+Design" alt="Typing SVG" />
-  </a>
-
-  <br/>
-  <br/>
-
-  <!-- Stats Section - Using Tokyonight theme for reliability and expert look -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdelalim2000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
-  
-</div>
-
-<br />
-
-## 👨‍💻 Professional Summary
-
-With over **7 years** of hands-on experience in the software industry, I specialize in designing and implementing high-performance backend systems. My journey has evolved from writing code to **architecting distributed solutions** that power business-critical applications.
-
-I focus on **performance optimization**, **database scalability**, and **security compliance**. I thrive in complex environments where architectural decisions have a direct impact on system reliability and user experience.
-
----
-
-## 🛠️ Technology Arsenal
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/php-icon.svg" width="55" height="55" alt="PHP" /><br><b>PHP</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" /><br><b>MySQL</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" /><br><b>Docker</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="55" height="55" alt="K8s" /><br><b>Kubernetes</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="Nginx" /><br><b>Nginx</b>
-    </td>
-     <td align="center" width="120">
-      <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" width="55" height="55" alt="Redis" /><br><b>Redis</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/laravel-icon.svg" width="55" height="55" alt="Laravel" /><br><b>Laravel</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Symfony_Graphics_Color_Logo.png" width="55" height="55" alt="Symfony" /><br><b>Symfony</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" /><br><b>Python</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" /><br><b>Java</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="AWS" /><br><b>AWS</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" /><br><b>JavaScript</b>
-    </td>
-  </tr>
-</table>
-
-### 🚀 **Domain Expertise**
-- **System Architecture**: Microservices, Event-Driven Architecture, REST/GraphQL APIs.
-- **Data Engineering**: Database warehousing, caching strategies (Redis), complex SQL optimization.
-- **DevOps**: CI/CD pipelines, containerization (Docker/K8s), cloud infrastructure (AWS/GCP).
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelalim2000&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Github Stats" height="180" />
-  
-  <!-- Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelalim2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
-</div>
+<img src="https://raw.githubusercontent.com/abdelalim2000/abdelalim2000/master/assets/backend-banner.svg" width="100%" alt="Mohamed A. Abdelalim — Backend Engineer | PHP, Laravel, APIs, and AI Integrations" />
 
 <br/>
 
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelalim2000&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3300&amp;pause=1400&amp;color=63DBCB&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Production-minded+Backend+Engineering;Laravel+%7C+Performance+%7C+Real-time+Systems;Practical+AI+Features+%26+LLM+Integrations" alt="Animated introduction: Backend engineering, performance, and AI integrations" />
+
+<p>
+  <a href="https://www.linkedin.com/in/abdelalim1997/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/abdelalim2000"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-182334?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Location-Egypt-263645?style=flat-square" alt="Based in Egypt" />
+  <img src="https://img.shields.io/badge/Open_to-Remote_Opportunities-177A68?style=flat-square" alt="Open to remote opportunities" />
+</p>
+
 </div>
+
+## About me
+
+I'm **Mohamed Ahmed Abdelalim**, a backend-focused software developer specializing in **PHP and Laravel**. My software development journey started in **2020**, building full-stack freelance projects before moving into production applications and collaborative engineering teams.
+
+At **MediaPanArab**, I work as a **Senior PHP/Laravel Developer** and take on **technical lead responsibilities**—contributing to feature planning, reviewing code, coordinating development work, and monitoring production applications.
+
+I enjoy making existing systems better: investigating inefficient database queries, designing focused APIs, moving expensive operations to background jobs, and building AI-assisted tools that fit real editorial workflows.
+
+## What I work on
+
+| Focus | Experience |
+| :--- | :--- |
+| **Backend & APIs** | Laravel applications, REST APIs, application security, production maintenance, and API response optimization |
+| **Performance & Data** | Eloquent query optimization, N+1 fixes, SQL, file/database caching, and queue-based background processing |
+| **Real-time Sports** | Sports data integrations and Firebase-powered notifications for live football match events |
+| **Applied AI** | Gemini API integration, prompt engineering, AI-assisted editorial workflows, and news-grounded quiz generation |
+| **Team Collaboration** | Code reviews, task coordination, technical discussions, feature testing, and knowledge sharing |
+
+## Selected work
+
+### AI Editorial Assistant · End-to-end feature
+
+Built an AI-powered editorial review feature **from scratch**, including the backend and editor-dashboard frontend. The assistant uses the **Gemini API** and football-news-specific prompts to flag spelling issues and propose writing improvements. Editors stay in control: they can review suggestions side by side, apply individual changes, or choose to apply all suggested revisions.
+
+### AI-powered Sports Quiz Generator · End-to-end feature
+
+Built a full-stack quiz creation and management feature integrated into an **existing** points-and-rewards platform. Editors select a football competition, date range, and relevant news articles; Gemini generates news-grounded questions at **easy, medium, and hard** difficulty levels. Refined prompts to improve relevance and reduce generation errors. *The existing rewards engine was not part of this build.*
+
+### News & Live Sports Platforms · Production engineering
+
+Maintain and improve existing news and sports backend systems, including editorial workflows, sports-data APIs, and live match features. Work includes **database query optimization**, short-lived caching for frequently changing content, **asynchronous jobs** for recurring updates, and Firebase match-event notifications.
+
+> Most of this work is proprietary. These descriptions focus on my contributions without sharing internal architecture, private metrics, or confidential implementation details.
+
+## Toolbox
+
+**Core backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1E566D?style=flat-square)
+![Laravel Queues](https://img.shields.io/badge/Queues_%26_Caching-196D67?style=flat-square)
+
+**Additional technologies**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI & current learning**
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-4169E1?style=flat-square&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-35566A?style=flat-square)
+![C Sharp](https://img.shields.io/badge/C%23-Learning-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Coursework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-Coursework-512BD4?style=flat-square)
+
+I have studied **C#, ASP.NET Core Web API, and Entity Framework Core** and am building practical experience in the .NET ecosystem. My professional production experience remains primarily **PHP/Laravel**.
+
+## Engineering principles
+
+- **Measure before optimizing.** Fix real bottlenecks instead of adding unnecessary complexity.
+- **Keep APIs intentional.** Return what consumers need and avoid wasteful database access.
+- **Design for change.** Balance fresh content, caching, queues, and operational reliability.
+- **Use AI responsibly.** Keep editorial oversight and human approval in the workflow.
+- **Review, document, share.** Good engineering is collaborative.
 
 ---
 
 <div align="center">
-  <p><i>Building the digital backbone of the future.</i></p>
+
+**Interested in collaborating or discussing a remote backend role?**
+
+<a href="https://www.linkedin.com/in/abdelalim1997/"><strong>Let's connect on LinkedIn</strong></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/abdelalim2000?tab=repositories"><strong>Explore my repositories</strong></a>
+
+<br/><br/>
+
+<sub>Backend engineering · Laravel · Performance · Applied AI</sub>
+
 </div>
