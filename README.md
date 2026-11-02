@@ -15,6 +15,10 @@
 
 </div>
 
+## About my repositories
+
+> **Most of my professional and independent project work is kept in private repositories** because the source code is not intended for public distribution. My public repositories are primarily learning experiments, technical tests, and small prototypes—not a complete representation of my production experience. The **Selected work** section below highlights projects and engineering contributions I can discuss without disclosing private code.
+
 ## About me
 
 I'm **Mohamed Ahmed Abdelalim**, a backend-focused software developer specializing in **PHP and Laravel**. My software development journey started in **2020**, building full-stack freelance projects before moving into production applications and collaborative engineering teams.
